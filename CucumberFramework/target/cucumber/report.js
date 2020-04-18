@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 3899088300,
+  "duration": 10220708800,
   "status": "passed"
 });
 formatter.scenario({
@@ -52,42 +52,42 @@ formatter.match({
   "location": "Loginsteps.user_navigates_to_stackoverflow_website()"
 });
 formatter.result({
-  "duration": 1233975400,
+  "duration": 4717347500,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.user_clicks_on_the_login_button_on_homepage()"
 });
 formatter.result({
-  "duration": 1074883600,
+  "duration": 1490769900,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.user_enters_a_valid_username()"
 });
 formatter.result({
-  "duration": 51700,
+  "duration": 3232548600,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.user_enters_a_valid_password()"
 });
 formatter.result({
-  "duration": 44300,
+  "duration": 129743500,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.user_clicks_on_the_login_button()"
 });
 formatter.result({
-  "duration": 45400,
+  "duration": 1425275900,
   "status": "passed"
 });
 formatter.match({
   "location": "Loginsteps.user_should_be_taken_to_the_successful_login_page()"
 });
 formatter.result({
-  "duration": 66400,
+  "duration": 84147500,
   "status": "passed"
 });
 formatter.uri("Login2.feature");
@@ -99,7 +99,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 2841893400,
+  "duration": 9653256700,
   "status": "passed"
 });
 formatter.scenario({
@@ -150,7 +150,7 @@ formatter.match({
   "location": "Loginsteps.user_navigates_to_stackoverflow_website(int)"
 });
 formatter.result({
-  "duration": 1055219199,
+  "duration": 1419764400,
   "status": "passed"
 });
 formatter.match({
@@ -163,7 +163,7 @@ formatter.match({
   "location": "Loginsteps.user_clicks_on_the_login_button_on_homepage(int)"
 });
 formatter.result({
-  "duration": 94501,
+  "duration": 174700,
   "status": "passed"
 });
 formatter.match({
@@ -176,7 +176,7 @@ formatter.match({
   "location": "Loginsteps.user_enters_a_valid_username(int)"
 });
 formatter.result({
-  "duration": 61400,
+  "duration": 221400,
   "status": "passed"
 });
 formatter.match({
@@ -189,7 +189,7 @@ formatter.match({
   "location": "Loginsteps.user_enters_a_valid_password(int)"
 });
 formatter.result({
-  "duration": 58500,
+  "duration": 195900,
   "status": "passed"
 });
 formatter.match({
@@ -202,7 +202,7 @@ formatter.match({
   "location": "Loginsteps.user_clicks_on_the_login_button(int)"
 });
 formatter.result({
-  "duration": 65001,
+  "duration": 277600,
   "status": "passed"
 });
 formatter.match({
@@ -215,7 +215,7 @@ formatter.match({
   "location": "Loginsteps.user_should_be_taken_to_the_successful_login_page(int)"
 });
 formatter.result({
-  "duration": 581300,
+  "duration": 258200,
   "status": "passed"
 });
 });
