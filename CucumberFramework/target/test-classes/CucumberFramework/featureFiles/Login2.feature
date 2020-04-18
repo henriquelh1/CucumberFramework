@@ -2,7 +2,7 @@ Feature: Login into account
 
 Scenario: Log into account with correct credentials
 
-Given user navigates to stackoverflow website2 
+Given user navigates on website2 
 And User clicks on the login button on homepage2
 And User enters a valid username2
 And User enters a valid password2

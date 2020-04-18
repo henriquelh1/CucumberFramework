@@ -28,7 +28,7 @@ public class Loginsteps {
 
 	}
 
-	@Given("^user navigates to stackoverflow website$")
+	@Given("^user navigates on website$")
 	public void user_navigates_to_stackoverflow_website() throws Throwable {
 		driver.get("http://automationpractice.com/index.php?");
 	}
@@ -63,7 +63,7 @@ public class Loginsteps {
 		
 	}
 
-	@Given("^user navigates to stackoverflow website(\\d+)$")
+	@Given("^user navigates on website(\\d+)$")
 	public void user_navigates_to_stackoverflow_website(int arg1) throws Throwable {
 		System.out.println("user navigates to stackoverflow website 222");
 		driver.get("https://stackoverflow.com/");
